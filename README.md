@@ -1,7 +1,7 @@
 ## Ex. No: 5  VLAN Configuration Using a Managed Switch
-#Date:29/07/2026
-#Name : Agash G
-#Reg no : 212223060011
+# Date:29/07/2026
+# Name : Agash G
+# Reg no : 212223060011
 ________________________________________
 # Objective
 To configure Virtual Local Area Networks (VLANs) on a managed switch and verify that hosts within the same VLAN can communicate while others cannot.
